@@ -4,4 +4,4 @@
 ## Autor
 Imię: Janek
 Klasa: 4i
-Partner (login): 
+Partner (login): piotrpodborny
